@@ -1,0 +1,228 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+* {
+  font-family: "Oswald", sans-serif;
+}
+
+.alert {
+  margin-left: 41%;
+  margin-right: 41%;
+}
+
+/* below code is for the MainScreen */
+
+.navbar {
+  height: 80px;
+}
+
+.navbar-brand {
+  font-size: 31px;
+}
+
+.logo1 {
+  border-radius: 2px;
+  margin-left: 10px;
+  padding-left: 3px;
+  padding-right: 13px;
+}
+
+li {
+  font-size: 20px;
+}
+
+.card-img-top {
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-title {
+  font-size: 25px;
+}
+
+.card-text {
+  text-align: center;
+  text-justify: inter-word;
+  font-size: 18px;
+}
+
+#card {
+  margin-bottom: -30px;
+}
+
+hr {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  border-top: 200px;
+}
+
+.list1 {
+  list-style-type: none;
+  font-size: 20px;
+  display: inline;
+  margin-left: 30px;
+}
+
+.list2 {
+  list-style-type: none;
+  font-size: 20px;
+  display: inline;
+  margin-left: 30px;
+}
+
+.check {
+  height: 45px;
+  width: 45px;
+  margin-right: 10px;
+}
+
+.copyright {
+  float: right;
+}
+
+.click {
+  text-decoration: none;
+}
+
+/* Below CSS code is for the Log-In Screen */
+
+#bg {
+  height: 40%;
+  width: 40%;
+  margin-top: 30px;
+  margin-left: 160px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.blur {
+  width: 40%;
+  height: 214px;
+  background-color: white;
+  padding: 50px;
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+  margin-top: 0px;
+  margin-left: 160px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.blur-words {
+  margin-left: 18px;
+  font-size: 33px;
+}
+
+#navbar2 {
+  height: 90px;
+}
+
+.logo2 {
+  border-radius: 5px;
+  margin-left: 10px;
+  padding-left: 3px;
+  padding-right: 13px;
+  width: 60px;
+  height: 50px;
+}
+
+.navbar-brand2 {
+  color: white;
+  font-size: 31px;
+  margin-top: 18px;
+}
+
+#text-center1 {
+  padding: 230px 10px 20px 10px;
+  margin-top: 30px;
+  margin-right: 10%;
+  margin-left: 60%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-name {
+  margin-top: -100px;
+  padding-bottom: 60px;
+}
+
+.spaces {
+  height: 35px;
+}
+
+.little-space {
+  height: 15px;
+}
+
+.email {
+  width: 340px;
+  border-radius: 6px;
+  border: 1px solid gainsboro;
+  height: 40px;
+}
+
+.password {
+  width: 340px;
+  border-radius: 6px;
+  border: 1px solid gainsboro;
+  height: 40px;
+}
+
+.checkbox {
+  margin-right: 8px;
+  display: inline-block;
+  font-size: 14px;
+}
+
+#button {
+  width: 340px;
+  border-radius: 6px;
+}
+
+.reminder {
+  font-size: 14px;
+}
+
+.text-start {
+  padding-left: 40px;
+}
+
+.form-logo {
+  position: absolute;
+  width: 80px;
+  height: 70px;
+  margin-top: -200px;
+  margin-left: -28px;
+}
+
+/* Below CSS code is for SignUp Page */
+
+.department-name {
+  width: 495px;
+  border-radius: 4px;
+  border: 1px solid gainsboro;
+  height: 40px;
+}
+
+.email2 {
+  width: 495px;
+  border-radius: 4px;
+  border: 1px solid gainsboro;
+  height: 40px;
+}
+
+.password2 {
+  width: 495px;
+  border-radius: 4px;
+  border: 1px solid gainsboro;
+  height: 40px;
+}
+
+.checkbox2 {
+  margin-right: 12px;
+  display: inline-block;
+  font-size: 12px;
+}
+
+#button2 {
+  width: 495px;
+}
